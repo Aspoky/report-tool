@@ -1,4 +1,4 @@
-# report-tool 1.0
+# report-tool 1.0.0
 
 This tool was created to report instagram users by automating the proccess
 
