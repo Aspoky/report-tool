@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
       name='report_tool',
-      version='1.1',
+      version='1.1.0',
       description='Tool for Report Instagram Users',
       long_description=long_description,
       long_description_content_type="text/markdown",
